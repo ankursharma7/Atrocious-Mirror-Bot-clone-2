@@ -1,4 +1,4 @@
-FROM vincreator/eunhamirror:latest
+FROM Atrocious-Mirror-Bot/Atrocious_Mirror_Bot:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
