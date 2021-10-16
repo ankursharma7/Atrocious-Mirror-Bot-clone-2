@@ -1,16 +1,16 @@
 [![Betterme](https://telegra.ph/file/044017033ca7028c9fc85.jpg)](https://youtu.be/s2TktuIA9-s)
 
 # Eunha Mirror
-![GitHub Repo stars](https://img.shields.io/github/stars/vincreator/eunhamirror?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/vincreator/eunhamirror?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/vincreator/eunhamirror)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/vincreator/eunhamirror)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/vincreator/eunhamirror)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/vincreator/eunhamirror)
-![GitHub contributors](https://img.shields.io/github/contributors/vincreator/eunhamirror?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/vincreator/eunhamirror?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vincreator/eunhamirror)
-![GitHub](https://img.shields.io/github/license/vincreator/eunhamirror)
+![GitHub Repo stars](https://img.shields.io/github/stars/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
+![GitHub contributors](https://img.shields.io/github/contributors/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
+![GitHub](https://img.shields.io/github/license/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
 [![Channel](https://img.shields.io/badge/Channel-blue)](https://t.me/Namexian)
 
 **Eunha Mirror** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
@@ -93,7 +93,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/vincreator/eunha/
+git clone https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot/
 cd mirrorbot
 ```
 
@@ -143,12 +143,12 @@ Fill up rest of the fields. Meaning of each fields are discussed below:
 - `ACCOUNTS_ZIP_URL`: Only if you want to load your Service Account externally from an Index Link. Archive your Service Account json files to a zip file directly (don't archive the accounts folder. Select all the jsons inside and zip them only instead. Name the zip file with whatever you want, it doesn't matter). Fill this with the direct link of that file.
 - `TOKEN_PICKLE_URL`: Only if you want to load your **token.pickle** externally from an Index Link. Fill this with the direct link of that file.
 - `MULTI_SEARCH_URL`: To use search/list in multiple TD/folder. Run `driveid.py` in your terminal and follow it. It will generate a file `drive_folder` when you finish. Upload that file [`here`](https://gist.github.com/) with the same file name. Open the raw file of that gist, it's URL will be your required config. Check wiki for gist related help. 
-- `DATABASE_URL`: Your Database URL. See [`Generate Database`](https://github.com/vincreator/eunhamirror/tree/master#generate-database) to generate database (**NOTE**: If you use database you can save your sudo id permanent using `/addsudo` command).
+- `DATABASE_URL`: Your Database URL. See [`Generate Database`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot/tree/master#generate-database) to generate database (**NOTE**: If you use database you can save your sudo id permanent using `/addsudo` command).
 - `AUTHORIZED_CHATS`: Fill user_id and chat_id (not username) of you want to authorize, Seprate them with space, Examples: `-0123456789 -1122334455 6915401739`.
 - `SUDO_USERS`: Fill user_id (not username) of you want to sudoers, Seprate them with space, Examples: `0123456789 1122334455 6915401739` (**NOTE**: If you want save sudo id permanent without database, you must fill your sudo id there).
 - `IS_TEAM_DRIVE`: Set to `True` if `GDRIVE_FOLDER_ID` is from a Team Drive else `False` or Leave it empty.
-- `USE_SERVICE_ACCOUNTS`: (Leave empty if unsure) Whether to use Service Accounts or not. For this to work see [`Using Service Accounts`](https://github.com/vincreator/eunhamirror#generate-service-accounts-what-is-service-account) section below.
-- `INDEX_URL`:  [`Generate Index`](https://github.com/vincreator/eunhamirror/tree/master#Index-Repo)
+- `USE_SERVICE_ACCOUNTS`: (Leave empty if unsure) Whether to use Service Accounts or not. For this to work see [`Using Service Accounts`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot#generate-service-accounts-what-is-service-account) section below.
+- `INDEX_URL`:  [`Generate Index`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot/tree/master#Index-Repo)
 - `MEGA_API_KEY`: Mega.nz api key to mirror mega.nz links. Get it from [`Mega SDK Page`](https://mega.nz/sdk)
 - `MEGA_EMAIL_ID`: Your email id you used to sign up on mega.nz for using premium accounts (Leave th)
 - `MEGA_PASSWORD`: Your password for your mega.nz account
@@ -280,7 +280,7 @@ sudo docker image prune -a
     
 ## Pre-requisites
 
-- [`token.pickle`](https://github.com/vincreator/eunhamirror#getting-google-oauth-api-credential-file)
+- [`token.pickle`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot#getting-google-oauth-api-credential-file)
 - [`Heroku`](https://heroku.com) accounts
 - Recommended to use 1 App in 1 Heroku account
 - Don't use bin/fake credits card, because your Heroku account will get banned.
@@ -297,7 +297,7 @@ sudo docker image prune -a
 
 	* `HEROKU_API_KEY` Your Heroku API key, get it from [`Dasboard Heroku`](https://dashboard.heroku.com/account)
 	* `HEROKU_APP_NAME` Your Heroku app name, Name Must be unique
-	* `CONFIG_FILE_URL` Fill [`This`](https://raw.githubusercontent.com/vincreator/eunhamirror/master/config_sample.env) in any text editor. Remove the `_____REMOVE_THIS_LINE_____=True` line and fill the variables. Go to [`Gist`](https://gist.github.com) and paste your config data. Rename the file to `config.env` then create secret gist. Click on Raw, copy the link. This will be your `CONFIG_FILE_URL`. Refer to below images for clarity. 
+	* `CONFIG_FILE_URL` Fill [`This`](https://raw.githubusercontent.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot/master/config_sample.env) in any text editor. Remove the `_____REMOVE_THIS_LINE_____=True` line and fill the variables. Go to [`Gist`](https://gist.github.com) and paste your config data. Rename the file to `config.env` then create secret gist. Click on Raw, copy the link. This will be your `CONFIG_FILE_URL`. Refer to below images for clarity. 
 
 	![steps 1 to 5](https://telegra.ph/file/ec56f647ee556e86f6c7d.png)
 	
@@ -352,12 +352,12 @@ heroku stack:set container -a appname
 ```
 - Clone this repo:
 ```
-git clone https://github.com/vincreator/eunhamirror
+git clone https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot
 ls
 cd eunha
 ```
-- get token [`Read here`](https://github.com/vincreator/eunhamirror#getting-google-oauth-api-credential-file)
-- get sa token (`opsional`) [`Read here`](https://github.com/vincreator/eunhamirror#generate-service-accounts)
+- get token [`Read here`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot#getting-google-oauth-api-credential-file)
+- get sa token (`opsional`) [`Read here`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot#generate-service-accounts)
 - Init the repo clone
 ```
 git init
@@ -542,7 +542,7 @@ choose one of these:
 </details>            
 
 ## Index-Repo
-Recommended Index repo for [`eunhamirror`](https://github.com/vincreator/eunhamirror)
+Recommended Index repo for [`eunhamirror`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
 <details>
     <summary><b>Click here for more details</b></summary>
 
