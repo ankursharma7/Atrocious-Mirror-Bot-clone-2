@@ -531,7 +531,7 @@ choose one of these:
 </details>            
 
 ## Index-Repo
-Recommended Index repo for [`eunhamirror`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
+Recommended Index repo for [`Atrocious Mirror Bot`](https://github.com/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
 <details>
     <summary><b>Click here for more details</b></summary>
 
