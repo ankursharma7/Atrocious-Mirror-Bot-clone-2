@@ -1,4 +1,4 @@
-[![Betterme](https://telegra.ph/file/044017033ca7028c9fc85.jpg)](https://youtu.be/s2TktuIA9-s)
+https://camo.githubusercontent.com/5585721b0a5a95a6f2c28f3e28f61db1486f1681039a6a647df38ea163ab59cc/68747470733a2f2f74656c656772612e70682f66696c652f3462613737356130336661386633383665633835352e6a7067
 
 # Eunha Mirror
 ![GitHub Repo stars](https://img.shields.io/github/stars/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=blue&style=flat)
