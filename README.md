@@ -1,7 +1,7 @@
 ![IMG_20210703_204651_417](https://telegra.ph/file/4ba775a03fa8f386ec855.jpg)
 
 # Atrocious_Mirror
-![GitHub Repo stars](https://img.shields.io/github/stars/vincreator/eunhamirror?color=blue&style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/vincreator/eunhamirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/vincreator/eunhamirror)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/vincreator/eunhamirror)
