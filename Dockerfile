@@ -1,4 +1,4 @@
-FROM Atrocious-Mirror-Bot/Atrocious_Mirror_Bot:latest
+FROM Atrocious-Mirror-Bot/atrocious_mirror_bot:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
