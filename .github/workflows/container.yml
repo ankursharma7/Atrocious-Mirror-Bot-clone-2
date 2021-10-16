@@ -1,4 +1,4 @@
-name: Manually Deploy To Heroku
+name: Container
 
 on: workflow_dispatch
 
