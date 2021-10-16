@@ -1,16 +1,16 @@
 ![IMG_20210703_204651_417](https://telegra.ph/file/4ba775a03fa8f386ec855.jpg)
 
 # Atrocious_Mirror
-![GitHub Repo stars](https://img.shields.io/github/stars/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
-![GitHub contributors](https://img.shields.io/github/contributors/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
-![GitHub](https://img.shields.io/github/license/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
+![GitHub Repo stars](https://img.shields.io/github/stars/vincreator/eunhamirror?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/vincreator/eunhamirror?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/vincreator/eunhamirror)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/vincreator/eunhamirror)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/vincreator/eunhamirror)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/vincreator/eunhamirror)
+![GitHub contributors](https://img.shields.io/github/contributors/vincreator/eunhamirror?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/vincreator/eunhamirror?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vincreator/eunhamirror)
+![GitHub](https://img.shields.io/github/license/vincreator/eunhamirror)
 [![Channel](https://img.shields.io/badge/Channel-blue)](https://t.me/Namexian)
 
 **Atrocious_Mirror_Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
