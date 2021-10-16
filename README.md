@@ -1,6 +1,6 @@
-https://camo.githubusercontent.com/5585721b0a5a95a6f2c28f3e28f61db1486f1681039a6a647df38ea163ab59cc/68747470733a2f2f74656c656772612e70682f66696c652f3462613737356130336661386633383665633835352e6a7067
+![IMG_20210703_204651_417](https://telegra.ph/file/4ba775a03fa8f386ec855.jpg)
 
-# Eunha Mirror
+# Atrocious_Mirror
 ![GitHub Repo stars](https://img.shields.io/github/stars/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
@@ -13,7 +13,7 @@ https://camo.githubusercontent.com/5585721b0a5a95a6f2c28f3e28f61db1486f1681039a6
 ![GitHub](https://img.shields.io/github/license/Atrocious-Mirror-Bot/Atrocious_Mirror_Bot)
 [![Channel](https://img.shields.io/badge/Channel-blue)](https://t.me/Namexian)
 
-**Eunha Mirror** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
+**Atrocious_Mirror_Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
 # Features supported:
 <details>
